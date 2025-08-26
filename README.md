@@ -34,7 +34,8 @@ The goal was to demonstrate how to integrate **same languages** in a small funct
 ---
 
 ## JQuery/Ajax
-jQuery(document).ready(function($) {
+<script>
+    jQuery(document).ready(function($) {
       $('#filter-input').on('keyup', function() {
           var search = $(this).val();
 
@@ -50,7 +51,8 @@ jQuery(document).ready(function($) {
               }
           });
       });
-  });
+  });  
+</script>
 
 ---
 
