@@ -1,4 +1,4 @@
-# 🔎 AJAX Filter WP Exemple
+# 🔎 AJAX Filter WP Example
 
 This is a **example of an AJAX filter** for WordPress, to search and display posts dynamically without reloading the page.  
 The goal was to demonstrate how to integrate **same languages** in a small functional project.
