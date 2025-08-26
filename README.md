@@ -27,9 +27,9 @@ The goal was to demonstrate how to integrate **same languages** in a small funct
 
 ## 📂 Project Structure
 
-```page.php # Example frontend with input and results container```
-```functions.php # AJAX callback in PHP using WP_Query```
-```README.md # Project documentation```
+├── page.php # Example frontend with input and results container
+├── functions.php # AJAX callback in PHP using WP_Query
+└── README.md # Project documentation
 
 ---
 
